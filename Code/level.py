@@ -3,7 +3,7 @@
 
 class Level:
     def __init__(self):
-        self.Window = None
+        self.window = None
         self.name = None
         self.entity_list = None
 
